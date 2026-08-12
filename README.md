@@ -66,4 +66,4 @@ scores.
 
 👨‍💻 Author
 
-Mukul ROY
+Deepak Kumar Kohli
